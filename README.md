@@ -16,6 +16,7 @@ If no second distinct value exists, the program prints -1.
 ### Run Command
 ``command Prompt
 javac Problem1.java
+
 java Problem1
 ```
 
@@ -39,8 +40,8 @@ Nested loops are used to count the frequency of each word.
 If two words have the same frequency, the alphabetically smaller word is selected.
 ### Run Command
 ```Command Prompt
-javac Problem2.java
-java Problem
+javac Problem3.java
+java Problem3
 ```
 # Problem 4 -
 
