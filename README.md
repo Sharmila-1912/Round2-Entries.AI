@@ -14,9 +14,8 @@ Duplicates are ignored while finding the second largest element.
 If no second distinct value exists, the program prints -1.
 
 ### Run Command
-``command Prompt
+```command Prompt
 javac Problem1.java
-
 java Problem1
 ```
 
